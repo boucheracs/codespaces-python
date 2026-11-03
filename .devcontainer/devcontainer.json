@@ -6,7 +6,8 @@
 			],
 			"settings": {
 				"chat.disableAIFeatures": true,
-				"git.autofetch": true
+				"git.autofetch": true,
+				"workbench.secondarySideBar.defaultVisibility": "hidden"
 			}
 		}
 	}

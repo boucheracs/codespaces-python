@@ -3,7 +3,10 @@
 		"vscode": {
 			"extensions": [
 				"vsls-contrib.gitdoc"
-			]
+			],
+			"settings": {
+				"git.autofetch": true
+			}
 		}
 	}
 }
